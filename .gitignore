@@ -1,0 +1,11 @@
+/public/storage
+/.idea
+
+# Created by https://www.gitignore.io/api/laravel,phpstorm,linux,vagrant
+
+### Laravel ###
+/bootstrap/compiled.php
+/vendor
+/node_modules
+composer.phar
+.idea
